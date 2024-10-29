@@ -6,4 +6,4 @@ this prsctics has totally taked reference from the https://www.w3school.com.
 pull is a combination of 'fetch' and 'merge'.
 
 now a new branch has created with the name of mynewTest
-
+one new branch is called update-readme
